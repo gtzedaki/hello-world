@@ -1,3 +1,4 @@
 # hello-world
-Name: short description
+short description
+
 Hi, I am learning how to use gitHub
